@@ -1,0 +1,19 @@
+html{
+
+	box-sizing: border-box;
+	}
+
+*,*::before, *::after{
+	box-sizing: inherit;
+}
+.masthead {
+	background-image:url("../images/logo copy.svg");
+	padding: 6em;
+	background-size: 75px auto;
+	background-repeat: no-repeat;
+	background-position: center 10px;
+	text-align: center;
+
+
+
+}
